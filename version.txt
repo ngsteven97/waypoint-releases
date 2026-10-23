@@ -1,4 +1,4 @@
-tag=v12.1-pre
-type=pre-release
-note=Fixed OTA fragmentation heap bug
-built=2026-10-23 14:21:27
+tag=v12.2
+type=stable
+note=Updated HTML webpages with Waypoint Guide link
+built=2026-10-23 14:24:44
