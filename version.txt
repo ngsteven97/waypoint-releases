@@ -1,4 +1,4 @@
-tag=v12.5
+tag=v12.6
 type=stable
-note=Updated default train API
-built=2026-10-27 11:34:47
+note=Updated setup wizard to include air mode settings
+built=2026-10-27 12:04:53
