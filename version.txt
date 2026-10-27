@@ -1,4 +1,4 @@
-tag=v12.9
+tag=v12.10
 type=stable
-note=Patched fetchRouteFromVrs to use IATA
-built=2026-10-27 17:50:46
+note=Updated flight tracker to use adsb.fi as fallback
+built=2026-10-27 18:20:02
