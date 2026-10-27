@@ -1,4 +1,4 @@
-tag=v12.6
-type=stable
-note=Updated setup wizard to include air mode settings
-built=2026-10-27 12:04:53
+tag=v12.7-pre
+type=pre-release
+note=Updated fetchRouteForCallsign call
+built=2026-10-27 17:33:42
