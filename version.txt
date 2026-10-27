@@ -1,4 +1,4 @@
-tag=v12.8-pre
-type=pre-release
-note=Patched fetchRouteFromVrs  to use IATA
-built=2026-10-27 17:48:25
+tag=v12.9
+type=stable
+note=Patched fetchRouteFromVrs to use IATA
+built=2026-10-27 17:50:46
