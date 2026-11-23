@@ -1,4 +1,4 @@
-tag=v12.23-pre
-type=pre-release
-note=Updated airport mode bugs fix
-built=2026-11-23 11:16:06
+tag=v12.24
+type=stable
+note=Added airport mode
+built=2026-11-23 12:04:03
