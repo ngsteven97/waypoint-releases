@@ -1,4 +1,4 @@
-tag=v12.24
+tag=v12.25
 type=stable
-note=Added airport mode
-built=2026-11-23 12:04:03
+note=Failed fetch bug fix and corrected flight numbers
+built=2026-11-23 12:13:27
