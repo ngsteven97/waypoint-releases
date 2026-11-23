@@ -1,4 +1,4 @@
-tag=v12.15-pre
+tag=v12.16-pre
 type=pre-release
-note=Implemented Airport Tracking mode
-built=2026-11-22 21:10:48
+note=Added serial prints to Airport Departure/Arrival mode
+built=2026-11-23 09:59:15
