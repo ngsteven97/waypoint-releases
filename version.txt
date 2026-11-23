@@ -1,4 +1,4 @@
-tag=v12.22-pre
+tag=v12.23-pre
 type=pre-release
 note=Updated airport mode bugs fix
-built=2026-11-23 11:10:15
+built=2026-11-23 11:16:06
